@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lifecycle Lab</string>
+    <string name="title_main">Laboratorio de Ciclo de Vida</string>
+    <string name="title_second">Segunda Pantalla</string>
+    <string name="title_dialog">Actividad Diálogo</string>
+    <string name="title_logs">Registro de Ciclo de Vida (TXT)</string>
+    <string name="title_theory">Guía Teórica de Ciclo de Vida</string>
+</resources>
